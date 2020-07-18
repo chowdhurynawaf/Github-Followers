@@ -38,9 +38,9 @@
 
 
 
-# High Quality Preview
+## High Quality Preview
 https://drive.google.com/file/d/1JBaqBdlXprxM7NY8uexbm7y7oHq-UU0D/view?usp=sharing
 
-# Demo
+## Demo
 
 ![githubFollowers](https://user-images.githubusercontent.com/59824683/87465091-f2f61000-c635-11ea-886f-7635441dabf8.gif)
